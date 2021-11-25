@@ -1,4 +1,3 @@
-Victoria’s Secret, [25.10.2021 13:12]
 import numpy as np 
 import math 
  
